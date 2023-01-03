@@ -1,7 +1,7 @@
 <div align="center">
 
 # Team Resurgent's Repackinator 
-A Modern Original Xbox ISO Manager
+**A Modern ISO Manager for Original Xbox**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Team-Resurgent/Repackinator/blob/main/LICENSE.md)
 [![.NET](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml)
@@ -45,15 +45,15 @@ Please note that the region shown in Repackinator is calculated based on the Reg
   * USA-JAP = (USA,JAPAN/ASIA) USA,JAP
   * USA-PAL = (USA,Europe/Australia) USA,PAL
 
-Current DB contains 1044 Games, The info shown has been compiled by extracting Title Name, Region, Version & Title ID from the Default.XBE of each game. DB contains all USA Region Games, PAL Only Exclusives & JAP Only Exclusives. **Full Xbox library support to come in a future release. JSON file can be edited to include missing titles if desired in the interim** 
+Current DB contains 1044 Games, The info shown has been compiled by extracting Title Name, Region, Version & Title ID from the Default.XBE of each game. DB contains all USA Region Games, PAL Only Exclusives & JAP Only Exclusives. ***Full Xbox library support to come in a future release. JSON file can be edited to include missing titles if desired in the interim*** 
 
 Ability to easily update legacy Attacher(Default.XBE) created by tools like DVD2Xbox with new improved CerBios Attacher(Default.XBE).
 
 ## Install Notes
-* Run Repackinator.exe **first run must be as administrator to enable context menu**
+* Run Repackinator.exe ***first run must be as administrator to enable context menu***
 ![GUI](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/gui.png?raw=true)
 * Select Grouping Type *creates grouped folders in the output directory. Default = no grouping*
-* Set Input Folder. (Path to your Redump .ZIP/.7Z or .ISO Files) **SHOULD NOT INCLUDE REPACKINATOR'S ROOT, ANY SYSTEM FILES, OR BE A CHILD OF 'OUTPUT'**
+* Set Input Folder. (Path to your Redump .ZIP/.7Z or .ISO Files) ***SHOULD NOT INCLUDE REPACKINATOR'S ROOT, ANY SYSTEM FILES, OR BE A CHILD OF 'OUTPUT'***
 * Set Output Path. (Path to where you want to save your processed game)
 * **Process** Must be selected for titles you desire to have prepaired
 * **Scrub** is selected by default. This will replace the padding with zeros, for greater compressability. (de-selecting will simply split ISO for Xbox Fatx file system durring process)
