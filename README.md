@@ -61,19 +61,19 @@ Also included, is the ability to easily update legacy Attacher (default.xbe) cre
 * Select Grouping Type *creates grouped folders in the output directory. Default = no grouping*
 * Set Input Folder. (Path to your Redump .ZIP/.7Z or .ISO Files) ***SHOULD NOT INCLUDE REPACKINATOR'S ROOT, ANY SYSTEM FILES, OR BE A CHILD OF 'OUTPUT'***
 * Set Output Path. (Path to where you want to save your processed games)
-* **Process** Must be selected for titles you desire to have prepaired
-* **Scrub** is selected by default. This will replace the padding with zeros, for greater compression. de-selecting will simply split ISO for Xbox FATX file system during processing.
-* **Use Uppercase** will output file/folder names with all uppercase characters.
-* **Compress** will add .cci compression to the output. *Note: .cci is currently only supported while using Cerbios.* 
-* **Trim Scrub** will remove all unused data at the end of data partition. *Similar to XISO*  
-* **Traverse Input Subdir's** will look for files to process inside any additional directories within your selected input folder.
+* **Process**: Must be selected for titles you desire to have prepaired
+* **Scrub**: is selected by default. This will replace the padding with zeros, for greater compression. de-selecting will simply split ISO for Xbox FATX file system during processing.
+* **Use Uppercase**: will output file/folder names with all uppercase characters.
+* **Compress**: will add .cci compression to the output. *Note: .cci is currently only supported while using Cerbios.* 
+* **Trim Scrub**: will remove all unused data at the end of data partition. *Similar to XISO*  
+* **Traverse Input Subdir's**: will look for files to process inside any additional directories within your selected input folder.
 
 ## Context Menu
-After Repackinator has been ran as admin the first time, the context menu will populate. 
 <div align="center">
 
-![contextMenu](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/contextMenu.png?raw=true)
-</div>
+After Repackinator has been ran as admin the first time, the context menu will populate.
+![contextMenu](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/contextMenu.png?raw=true)</div>
+
 
 ## Acknowledgements
 * First, we would like to thank all of our Patreon supporters! You are the reason we can continue to advance our open source vision of the Xbox Scene!
