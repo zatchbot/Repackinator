@@ -9,15 +9,15 @@ Repackinator was designed to be modern all-in-one ISO Management tool for the Or
 
 It will provide you the ability to convert your full OG Xbox ISO dumps into full split ISO images (as well as optionally replacing padding for greater compression potential). Repackinator can also create reduced size ISO files by trimming the unused space if desired. Additionally, The ability to create playable compresses ISO images was introduced when the .cci(CerBios Compresses ISO) compression method was added.
 
-      [ Program ..................................... Repackinator V1.2.4 ]
-      [ Type ................................................ Iso Manager ]
-      [ Patreon ....................https://www.patreon.com/teamresurgent ]
-      [ Release date ......................................... 01.01.2023 ]
-	  
-      [                          Team Members:                            ]
-      [ EqUiNoX ......................................... Lead Programmer ]
-      [ HoRnEyDvL ............................... Tester/ Project Manager ]
-      [ Hazeno ................................................... Tester ]
+                                            [ Program ..................................... Repackinator V1.2.4 ]
+                                            [ Type ................................................ Iso Manager ]
+                                            [ Patreon ....................https://www.patreon.com/teamresurgent ]
+                                            [ Release date ......................................... 01.01.2023 ]
+                                    
+                                            [                          Team Members:                            ]
+                                            [ EqUiNoX ......................................... Lead Programmer ]
+                                            [ HoRnEyDvL ............................... Tester/ Project Manager ]
+                                            [ Hazeno ................................................... Tester ]
 
 ## System Requirements
 ### Minimum
