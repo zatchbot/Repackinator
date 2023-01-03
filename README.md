@@ -16,7 +16,7 @@ It provides you the ability to convert your OG Xbox ISO dumps into full working 
 Programmed for the very specific task of compressing original Xbox ISO structures, all while removing unused and or wasted space, Cerbios Compressed Images are the gold standard of Xbox ISO compression. The smallest file sizes all while mantaining maximum playablity is the name of the game.
 </div>
 
-                        [ Program ..................................... Repackinator V1.2.4 ]
+                        [ Program ..................................... Repackinator V1.2.5 ]
                         [ Type ................................................ Iso Manager ]
                         [ Patreon ....................https://www.patreon.com/teamresurgent ]
                         [ Release date ......................................... 01.01.2023 ]
@@ -49,7 +49,7 @@ Please note that the region shown in Repackinator is calculated based on the reg
   * USA-JAP = (USA,JAPAN/ASIA) USA,JAP
   * USA-PAL = (USA,Europe/Australia) USA,PAL
 
-Current database contains 1044 games. The info shown has been compiled by extracting the Title Name, Region, Version & Title ID from the `default.xbe` of each game. This contains all USA Region Games, PAL Only Exclusives & JAP Only Exclusives. ***Full Xbox library support to come in a future release. JSON file can be edited to include missing titles if desired in the interim*** 
+Current database contains 1044 games. The info shown has been compiled by extracting the Title Name, Region, Version & Title ID from the `default.xbe` of each game. This contains all USA Region Games, PAL Only Exclusives & JAP Only Exclusives. ***Full Xbox library support to come in a future release. JSON file can be edited to include missing titles if desired in the interim***.
 
 Also included, is the ability to easily update legacy Attacher (default.xbe) created by tools like DVD2Xbox with new improved Cerbios Attacher (default.xbe).
 
@@ -72,7 +72,16 @@ Also included, is the ability to easily update legacy Attacher (default.xbe) cre
 <div align="center">
 
 After Repackinator has been ran as admin the first time, the context menu will populate.
-![contextMenu](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/contextMenu.png?raw=true)</div>
+
+![contextMenu](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/contextMenu.png?raw=true)
+
+***CONTEXT MENU OPTIONS WILL NOT CREATE `default.xbe` OR `default.tbn` FILES!***
+</div>
+
+* .ISO files can be split as, well as .CCI files can be decompressed using the **Convert to ISO** functions.
+* .ISO files can be compressed to various types of .CCI using the **Convert to CCI** functions.
+* Compatible files can be cryptographically compaired by selecting **Compare Set First** on initial file, then **Compare First With** on the second file. *more info needed*
+* Info will print the sector data 
 
 
 ## Acknowledgements
