@@ -46,7 +46,7 @@ Ability to easily update legacy Attacher(Default.XBE) created by tools like DVD2
 
 ## Install Notes
 * Run Repackinator.exe **first run must be as administrator to enable context menu**
-![GUI](https://github.com/Team-Resurgent/Repackinator/blob/main/readmeStuff/gui.png?raw=true)
+![GUI](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/gui.png?raw=true)
 * Select Grouping Type *creates grouped folders in the output directory. Default = no grouping*
 * Set Input Folder. (Path to your Redump .ZIP/.7Z or .ISO Files) **SHOULD NOT INCLUDE REPACKINATOR'S ROOT, ANY SYSTEM FILES, OR BE A CHILD OF 'OUTPUT'**
 * Set Output Path. (Path to where you want to save your processed game)
