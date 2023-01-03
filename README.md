@@ -2,6 +2,7 @@
 
 # Team Resurgent's Repackinator 
 A Modern Original Xbox ISO Manager
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Team-Resurgent/Repackinator/blob/main/LICENSE.md)
 [![.NET](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?logo=discord)](https://discord.gg/VcdSfajQGK)
