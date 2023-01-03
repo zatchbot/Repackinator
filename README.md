@@ -16,15 +16,15 @@ It provides you the ability to convert your OG Xbox ISO dumps into full working 
 Programmed for the very specific task of compressing original Xbox ISO structures, all while removing unused and or wasted space, Cerbios Compressed Images are the gold standard of Xbox ISO compression. The smallest file sizes all while mantaining maximum playablity is the name of the game.
 </div>
 
-                    [ Program ..................................... Repackinator V1.2.4 ]
-                    [ Type ................................................ Iso Manager ]
-                    [ Patreon ....................https://www.patreon.com/teamresurgent ]
-                    [ Release date ......................................... 01.01.2023 ]
-            
-                    [                          Team Members:                            ]
-                    [ EqUiNoX ......................................... Lead Programmer ]
-                    [ HoRnEyDvL ............................... Tester/ Project Manager ]
-                    [ Hazeno ................................................... Tester ]
+                      [ Program ..................................... Repackinator V1.2.4 ]
+                      [ Type ................................................ Iso Manager ]
+                      [ Patreon ....................https://www.patreon.com/teamresurgent ]
+                      [ Release date ......................................... 01.01.2023 ]
+              
+                      [                          Team Members:                            ]
+                      [ EqUiNoX ......................................... Lead Programmer ]
+                      [ HoRnEyDvL ............................... Tester/ Project Manager ]
+                      [ Hazeno ................................................... Tester ]
 
 ## System Requirements
 ### Minimum
