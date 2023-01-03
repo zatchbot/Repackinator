@@ -3,7 +3,8 @@
 [![.NET](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?logo=discord)](https://discord.gg/VcdSfajQGK)
 
-   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/teamresurgent)
+[]
+                                            [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/teamresurgent)
 
 Repackinator was designed to be modern all-in-one ISO Management tool for the Original Xbox. 
 
