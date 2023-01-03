@@ -68,7 +68,7 @@ Also included, is the ability to easily update legacy Attacher (default.xbe) cre
 
 ## Context Menu
 After Repackinator has been ran as admin the first time, the context menu will populate. 
-
+![contextMenu](https://github.com/zatchbot/Repackinator/blob/main/readmeStuff/contextMenu.png?raw=true)
 
 ## Acknowledgements
 * First, we would like to thank all of our Patreon supporters! You are the reason we can continue to advance our open source vision of the Xbox Scene!
