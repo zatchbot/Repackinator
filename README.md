@@ -1,11 +1,11 @@
 # Team Resurgent's Repackinator - Modern Original Xbox ISO Manager
+<div align="center">
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Team-Resurgent/Repackinator/blob/main/LICENSE.md)
 [![.NET](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Team-Resurgent/Repackinator/actions/workflows/dotnet.yml)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?logo=discord)](https://discord.gg/VcdSfajQGK)
 
-
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/teamresurgent)
-
+</div>
 Repackinator was designed to be modern all-in-one ISO Management tool for the Original Xbox. 
 
 It will provide you the ability to convert your full OG Xbox ISO dumps into full split ISO images (as well as optionally replacing padding for greater compression potential). Repackinator can also create reduced size ISO files by trimming the unused space if desired. Additionally, The ability to create playable compresses ISO images was introduced when the .cci(CerBios Compresses ISO) compression method was added.
